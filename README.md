@@ -42,4 +42,5 @@ For research or educational use only. Do **not** use for any illegal or unethica
 ## 📬 Contact
 
 Author: Netrotion
+
 GitHub: https://github.com/netrotion
